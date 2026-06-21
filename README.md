@@ -41,7 +41,10 @@ lab-03-blue-team — Analisi SOC, detection e incident response
 
 Ogni repo contiene report dettagliati, screenshot e note tecniche dei lab svolti in ambienti isolati e controllati.
 
-📬 Contatti
 
-📍 Catania — disponibile per trasferimento e anche per posizioni remote o con mobilità https://www.linkedin.com/in/andrea-calabretta-94949a40a/ · calabretta.andrea@outlook.it
+
+📍 Catania — disponibile per trasferimento e anche per posizioni remote o con mobilità 
+
+📬 Contatti
+https://www.linkedin.com/in/andrea-calabretta-94949a40a/ · calabretta.andrea@outlook.it
 
