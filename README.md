@@ -10,7 +10,9 @@ Questo profilo raccoglie i progetti pratici e i lab che ho sviluppato durante il
 
 
 lab-01-infrastructure — IT, gestione sistemi, configurazioni di rete e firewall 
+
 lab-02-offensive — Penetration testing e vulnerability assessment
+
 lab-03-blue-team — Analisi SOC, detection e incident response 
 
 
