@@ -2,6 +2,9 @@ Ciao, sono Andrea 👋
 
 Sono Andrea, un Cybersecurity Analyst con un approccio che pochi hanno: 
 guardo la sicurezza da entrambi i lati della barricata. Ho appena completato un master fulltime in Cybersecurity & Ethical Hacking strutturato su tre aree che il mercato considera oggi strategiche:
+
+
+
 ▌ Cosa mi distingue: Non sono solo tecnico. Ho coordinato team, gestito procedure operative in ambienti ad alta responsabilità e comunicato con stakeholder diversi.
 La cybersecurity non è solo uno strumento — è una mentalità.
 E quella si costruisce nel tempo.
@@ -9,6 +12,9 @@ E quella si costruisce nel tempo.
 
 
 Ho da poco completato un Master in Cybersecurity & Ethical Hacking, con un focus particolare su Blue Team e Security Operations, e sto attivamente cercando la mia prima posizione come Junior SOC Analyst.
+
+
+
 ▌ Cosa so fare concretamente:
 → Penetration testing & VA (Metasploit, Burp Suite, Nmap, Kali Linux)
 → Network monitoring & traffic analysis (Wireshark, Snort, Suricata, tcpdump)
