@@ -1,4 +1,4 @@
-Ciao 👋 , sono Andrea e sto attivamente cercando la mia prima posizione come Junior SOC Analyst.👋
+Ciao 👋 , sono Andrea e sto attivamente cercando la mia prima posizione come Junior SOC Analyst.
 
 Ho con un approccio che pochi hanno: 
 guardo la sicurezza da entrambi i lati della barricata. 
