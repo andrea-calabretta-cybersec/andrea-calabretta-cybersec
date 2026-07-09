@@ -33,7 +33,7 @@ Ogni repo contiene report dettagliati, screenshot e note tecniche dei lab svolti
 
 
 
-📍 Catania — disponibile per trasferimento e anche per posizioni remote o con mobilità 
+📍 Catania — disponibile per trasferimento e anche per posizioni remote.
 
 📬 Contatti
 https://www.linkedin.com/in/andrea-calabretta-94949a40a/ · calabretta.andrea@outlook.it
