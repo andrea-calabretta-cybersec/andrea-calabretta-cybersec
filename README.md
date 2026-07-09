@@ -4,20 +4,14 @@ Ciao 👋 , sono Andrea e sto attivamente cercando la mia prima posizione come J
 Il mio percorso è ibrido per scelta. Ho un background in criminologia e sicurezza aziendale che mi ha dato una base giuridica solida che pochi profili tecnici hanno: GDPR, ISO 27001 e NIS2 non sono per me semplici checklist da spuntare, ma strumenti di gestione del rischio che conosco anche nella loro dimensione legale e organizzativa. 
 In un mercato dove la compliance è diventata urgenza strategica, saper parlare sia il linguaggio del terminale che quello del legislatore è una rarità — e un vantaggio concreto.
 
+Cosa so fare concretamente:
 
-  Cosa so fare concretamente:
 → Penetration testing & VA (Metasploit, Burp Suite, Nmap, Kali Linux)
-
 → Network monitoring & traffic analysis (Wireshark, Snort, Suricata, tcpdump)
-
 → SIEM & log analysis (Splunk, Wazuh, Elastic Stack)
-
 → Threat hunting con framework MITRE ATT&CK
-
 → Scripting per automazione e exploitation (Python, Bash)
-
 → Compliance & risk management (ISO 27001, GDPR, NIS2)
-
 → AI security: model validation, bias detection, adversarial testing
 
 
