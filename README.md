@@ -7,11 +7,17 @@ In un mercato dove la compliance è diventata urgenza strategica, saper parlare 
 
   Cosa so fare concretamente:
 → Penetration testing & VA (Metasploit, Burp Suite, Nmap, Kali Linux)
+
 → Network monitoring & traffic analysis (Wireshark, Snort, Suricata, tcpdump)
+
 → SIEM & log analysis (Splunk, Wazuh, Elastic Stack)
+
 → Threat hunting con framework MITRE ATT&CK
+
 → Scripting per automazione e exploitation (Python, Bash)
+
 → Compliance & risk management (ISO 27001, GDPR, NIS2)
+
 → AI security: model validation, bias detection, adversarial testing
 
 
