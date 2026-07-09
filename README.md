@@ -1,4 +1,4 @@
-Ciao 👋 , sono Andrea e sto attivamente cercando la mia prima posizione come Junior Cybersecurity Specialist.
+Ciao 👋 , sono Andrea e sto attivamente cercando la mia prima posizione come Junior Cybersecurity Analyst.
 
 
 Il mio percorso è ibrido per scelta. Ho un background in criminologia e sicurezza aziendale che mi ha dato una base giuridica solida che pochi profili tecnici hanno: GDPR, ISO 27001 e NIS2 non sono per me semplici checklist da spuntare, ma strumenti di gestione del rischio che conosco anche nella loro dimensione legale e organizzativa. 
